@@ -1,0 +1,18 @@
+{
+  "name": "bootstrap-v5",
+  "version": "1.0.0",
+  "description": "learning bootstrap v5 with sass",
+  "keywords": [
+    "Learning-bootstrap",
+    "bootstrap-v5",
+    "learn-bootstrap",
+    "sass"
+  ],
+  "license": "ISC",
+  "author": "Reed Belca",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
